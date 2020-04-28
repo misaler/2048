@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score">分数:</string>
+    <string name="bestScore">历史最高分:</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="title_activity_login">login</string>
+</resources>
